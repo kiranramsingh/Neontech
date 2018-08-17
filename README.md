@@ -1,8 +1,8 @@
-# neontech
+# Neon Tech Web Solutions
 
 /****************************************************************
 *                                                               *
-* This page is a solo work by kiran sai ram singh               *
+* This page is a sample work by kiran sai ram singh               *
 * All the images used belong to their respective creators       *
 * People images used in our crew section are just celebrities,  *
   they are not connected to the sample page in any manner.
