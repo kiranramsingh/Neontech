@@ -670,6 +670,7 @@ label {
   padding-bottom:70px;
   position: relative;
   left: 50%;
+  border:  1px  solid;
 
 }
 #geo-presence {
@@ -700,12 +701,14 @@ label {
   position: relative;
   right: 50px;
   width: 150%;
+  border:  1px  solid;
 }
 
 #disclaminer {
   position: relative;
   padding-top: 10px;
   padding-right: 10px;
+  border:  1px  solid;
 
 
 }
