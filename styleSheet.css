@@ -266,7 +266,9 @@ img.about-image-960 {
   background-color: #ce1b28;
   color: rgba(255, 255, 255, 0.75);
   background-attachment: fixed;
-  background-image: linear-gradient(rgba(43, 62, 190, 0.20), rgba(43, 62, 190, 0.20)), url(images/services-bg.gif);
+  background-image: linear-gradient(rgba(43, 62, 190, 0.20), rgba(43, 62, 190, 0.20)), url
+
+(images/services-bg.gif);
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
@@ -670,7 +672,7 @@ label {
   padding-bottom:70px;
   position: relative;
   left: 50%;
-  border:  1px  solid;
+border  :  2px  solid;
 
 }
 #geo-presence {
@@ -701,14 +703,14 @@ label {
   position: relative;
   right: 50px;
   width: 150%;
-  border:  1px  solid;
+border  :  2px  solid;
 }
 
 #disclaminer {
   position: relative;
   padding-top: 10px;
   padding-right: 10px;
-  border:  1px  solid;
+border  :  2px  solid;
 
 
 }
