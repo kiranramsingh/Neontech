@@ -652,9 +652,10 @@ label {
 @media (min-width: 341px) and (max-width: 520px){
 
   #footer-social-media {
+
     padding-bottom: 10px;
     position: relative;
-    left: -11%;
+    left: -13%;
     white-space: nowrap;
     text-align: center;
   }
@@ -670,9 +671,8 @@ label {
   padding-bottom:70px;
   position: relative;
   left: 50%;
-border  :  2px  solid;
-
 }
+
 #geo-presence {
   white-space: nowrap;
   line-height: 60px;
@@ -701,14 +701,14 @@ border  :  2px  solid;
   position: relative;
   right: 50px;
   width: 150%;
-border  :  2px  solid;
+
 }
 
 #disclaminer {
   position: relative;
   padding-top: 10px;
   padding-right: 10px;
-border  :  2px  solid;
+
 
 
 }
